@@ -1,10 +1,9 @@
 # Welcome to Scientia DAO
 
-![scientia_dao_logo](https://user-images.githubusercontent.com/11206675/183511519-021297a0-b855-41ca-a5ca-d50852554296.png)
 
 ### What is our main idea?
 
-Scientia DAO is the first DAO Community for Scientists & Researchers.
+Reserchia DAO is the first DAO Community for Scientists & Researchers.
 
 Researchers from around the world can become a DAO member and share their researches, studies and a lot more!
 
@@ -14,7 +13,7 @@ We want to create a decentralized and community-driven world of scientists and r
 
 ### Which features does Scientia DAO offer?
 
-Scientia DAO offers a variety of features:
+Reserchia DAO offers a variety of features:
 
 - enter a community full of researchers and scientists
 - publish your researches and studies
@@ -27,9 +26,9 @@ Scientia DAO offers a variety of features:
 
 ### How did we manage the project?
 
-In order to come up with this idea, Dhruv Agarwal, Kushagra Sarathe, Aditya Gupta and Nils Giebing have sat together and brainstormed. The direction was clear - Medicine and/or science. 
+In order to come up with this idea, Shivam Agarwal individually brainstormed. The direction was clear - Medicine and/or science. 
 
-After the second session we came up with the idea of this project and its name - Scientia DAO. Scientia is latin and means 'knowledge’. Knowledge in sciences.
+After the second session we came up with the idea of this project and its name - Reserchia DAO. Reserchia is latin and means 'knowledge’. Knowledge in sciences.
 
 We have set up a GitHub repository and began planning using Notion. First we wrote the smart contracts to come up with the logic behind the DAO. Soon we needed some first visualizations in order to keep going creating more ideas, logic and the dependend components.
 
@@ -45,7 +44,7 @@ The first 50 people can join the DAO directly after paying the inital deposit of
 
 ---
 
-## Technologies used in Scientia DAO
+## Technologies used in Reserchia DAO
 
 We have used several technologies to build this decentralized autonomous organization:
 
