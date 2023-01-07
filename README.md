@@ -1,4 +1,4 @@
-# Welcome to Scientia DAO
+# Welcome to Reserchia DAO
 
 
 ### What is our main idea?
@@ -112,7 +112,7 @@ In the smart contracts themselves you can find dev comments and explanations.
 
 ## NFTs
 
-At the current state Scientia DAO offers two different NFTs. A member NFT and a contributor NFT.
+At the current state Reserchia DAO offers two different NFTs. A member NFT and a contributor NFT.
 You can find the NFT data under [/backend/constant](https://github.com/adiig7/Polygon-BUIDL-IT/tree/main/backend/constant).
 
 NFT Collection Links live on Polygon Mumbai Net : 
